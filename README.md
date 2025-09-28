@@ -42,7 +42,3 @@ Comparative analysis and optimization of hydropathy scales for predicting core i
 - Automated benchmarking of 28 hydropathy scales.
 - Comprehensive plots and statistical analysis in `Plots/`.
 
-## License
-
-Distributed under the MIT License.
-
