@@ -36,9 +36,4 @@ Comparative analysis and optimization of hydropathy scales for predicting core i
 - Modular code, organized for scalability and reproducibility.
 - Ready-to-use datasets and scripts for feature extraction and model training.
 
-## Results
-
-- Best prediction accuracy achieved using CIRNet with selected hydropathy scale and systematic feature engineering.
-- Automated benchmarking of 28 hydropathy scales.
-- Comprehensive plots and statistical analysis in `Plots/`.
 
