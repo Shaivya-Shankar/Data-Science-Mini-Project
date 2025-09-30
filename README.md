@@ -1,6 +1,18 @@
 # Data-Science-Mini-Project
 
-Comparative analysis and optimization of hydropathy scales for predicting core interacting residues in protein–protein interfaces using CIRNet, deep learning, and machine learning models.
+### Comparative analysis and optimization of hydropathy scales for predicting core interacting residues in protein–protein interfaces using CIRNet, deep learning, and machine learning models.
+
+Worked collaboratively with researchers from Sapienza University and the University of Bristol to develop improved machine learning algorithms for predicting core interacting residues in protein-protein interfaces. The project utilized the CIRNet neural network architecture, incorporating shape, electrostatic, and hydropathy complementarity features for the classification of binding sites. We explored the impact of 28 different hydropathy scales, performed data normalization and feature engineering, and applied advanced techniques such as Principal Component Analysis (PCA) and hyperparameter optimization to enhance model accuracy. Key results included identification of optimal hydropathy scales and machine learning methods for robust interface residue prediction. 
+
+#### Key contributions:
+
+- Built and trained CNN and XGBoost models for core residue prediction in protein interactions
+
+- Integrated and benchmarked multiple hydropathy scales using PCA and statistical analysis
+
+- Improved accuracy through data pre-processing (power transformation, noise injection, min-max scaling)
+
+- Contributed to a joint research pipeline and co-authored analysis between both universities
 
 ## Project Structure
 
